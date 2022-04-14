@@ -9,10 +9,11 @@ Web
 2. 쿠키: 브라우저 임시 데이터\
    세션: 로그인 여부 유저 정보와 같은 데이터 상태
 
-3. Web/back 폴더 참조
+3. (3,4번은 Web 폴더에서 npm start)\
+   Web/back 폴더 참조
    
-4. Web/front 폴더 참조 (출처: 지도일 학생)
-(3,4번은 Web 폴더에서 npm start)
+4. Web/front 폴더 참조 (출처: 지도일 학생)\
+
 
 5. 3\
    hello world\
