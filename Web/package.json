@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "concurrently \"cd ./back && node server.js\" \"cd ./front && npm start\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -11,8 +12,10 @@
   "dependencies": {
     "axios": "^0.26.1",
     "body-parser": "^1.20.0",
+    "concurrently": "^7.1.0",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "i": "^0.3.7"
   }
 }
