@@ -12,7 +12,7 @@ Web
 3. (3,4번은 Web 폴더에서 npm start)\
    Web/back 폴더 참조
    
-4. Web/front 폴더 참조 (출처: 지도일 학생)\
+4. Web/front 폴더 참조 (출처: 지도일 학생)
 
 
 5. 3\
