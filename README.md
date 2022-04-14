@@ -3,7 +3,8 @@
 Web
 1. 404: Not found (응답없음)\
    200: Success (응답 성공)\
-   301: 해당 URL이 영구적으로 새로운 URL로 변경되었음을 나타냅니다. 출처: https://nsinc.tistory.com/168 [NakedStrength]\
+   301: 해당 URL이 영구적으로 새로운 URL로 변경되었음을 나타냅니다.\
+   (출처: https://nsinc.tistory.com/168 [NakedStrength])
    
 2. 쿠키: 브라우저 임시 데이터\
    세션: 로그인 여부 유저 정보와 같은 데이터 상태
