@@ -1,22 +1,22 @@
 # KgaAchievementExam
 
 Web
-1. 404: Not found (응답없음)
-   200: Success (응답 성공)
-   301: 해당 URL이 영구적으로 새로운 URL로 변경되었음을 나타냅니다. 출처: https://nsinc.tistory.com/168 [NakedStrength]
+1. 404: Not found (응답없음)__
+   200: Success (응답 성공)__
+   301: 해당 URL이 영구적으로 새로운 URL로 변경되었음을 나타냅니다. 출처: https://nsinc.tistory.com/168 [NakedStrength]__
    
-2. 쿠키: 브라우저 임시 데이터
-   세션: 로그인 여부 유저 정보와 같은 데이터 상태
+2. 쿠키: 브라우저 임시 데이터__
+   세션: 로그인 여부 유저 정보와 같은 데이터 상태__
    
 3. Web/back 폴더 참조
 
 4. Web/front 폴더 참조 (구현실패)
 
-5. 3
-   hello world
-   5
-   hi
-   5
+5. 3__
+   hello world__
+   5__
+   hi__
+   5__
 
 블록체인
 1. 블록, 체인
@@ -25,11 +25,11 @@ Web
 
 3. 리눅스 유저별 경로를 나눔
 
-4. mv ./file ./other
-   mkdir ./folder
-   rm -rf ./folder
-   cp -f ./folder ./other
-   mv -rf ./folder ./other
+4. mv ./file ./other__
+   mkdir ./folder__
+   rm -rf ./folder__
+   cp -f ./folder ./other__
+   mv -rf ./folder ./other__
    ls
    
 5. 모름
